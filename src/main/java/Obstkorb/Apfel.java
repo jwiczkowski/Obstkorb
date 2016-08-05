@@ -6,7 +6,7 @@ package Obstkorb;
 public class Apfel implements ObstInterface {
 
 
-    
+
     String Namen;
     int Größe;
     String Farbe;
