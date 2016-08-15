@@ -4,7 +4,7 @@ __Eine Anleitung zur verwendung des Obstkorbs.__
 
 ###Vorraussetzungen
 
-Zunächst braucht man eine __IDE__ ich benutze z.B [IntelliJ] (https://www.jetbrains.com/idea/).
+Zunächst braucht man eine __IDE__ wie z.B [IntelliJ] (https://www.jetbrains.com/idea/).
 Eine genauere Anleitung zur verwendung von __IntelliJ__ ist [hier] (https://www.jetbrains.com/idea/documentation/) zu finden.
 
 
