@@ -12,4 +12,10 @@ Da dort mit __Maven__ gearbeitet wurde muss auch dies vorhanden sein.
 [Hier](https://maven.apache.org/guides/getting-started/index.html) findet man ein umfangreiches __tutorial__ zur verwendung von Maven.
 
 ##Das Importieren
-Zunächst klont manm 
+1. Man klont das Repository auf seinen Desktop.
+2. Erstellen von einem Projekt in seiner IDE.
+3. In den Speicherpfad seines soeben neu erstellten Projektes gehen.
+4. Das Projekt "Obstkorb" importieren.
+5. Speichern.
+6. Run.
+7. Fun. :simple_smile:
