@@ -20,12 +20,15 @@ Eine genauere Anleitung zur verwendung/Installation von __IntelliJ__ ist [hier] 
 Das Projekt wurde mit __Maven__ gebaut und muss deshalb auch installiert sein.
 [Hier](https://maven.apache.org/guides/getting-started/index.html) findet man ein umfangreiches __tutorial__ zur Installation von __Maven__.
 
-Um ein Projekt in Intellij zu kompillieren muss man zunächst den Compiler Konfigurieren.
-Zunächst musss man das Konfigurations Menü aufrufen, das oben rechts zu finden ist.
+Um das Projekt in IntelliJ laufen zu bringen muss zuerst wissen wie man ein Projekt kompilliert.
+> Das Ziel ist es den Compiler zu Konfigurieren.
+> Dies tuht man indem man das Konfigurationsmenü aufruft, das oben rechts zu finden ist.
 ![Bild vom Menü] (https://puu.sh/qBZvi/e4782a6472.png)
 
-Man drückt auf den Pfeil und ruft das Konfigurations Menü auf.
-Das sollte wie folgt aussehen ![Bild vom Menü] (https://puu.sh/qBZBs/1a754a810e.png)
+
+> Man drückt auf den Pfeil und ruft das Konfigurations Menü auf.
+Das wie folgt aussehen sollte. 
+![Bild vom Menü] (https://puu.sh/qBZBs/1a754a810e.png)
 
 Dannach klickt man auf das "+" Symbol und fügt eine Application hinzu.
 
