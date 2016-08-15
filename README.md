@@ -14,7 +14,7 @@ Die Möglichkeit sich folgende Informationen über Früchte ausgeben zu lassen.
 ###Vorraussetzungen
 
 Zunächst braucht man eine __IDE__ wie z.B [IntelliJ] (https://www.jetbrains.com/idea/).
-Eine genauere Anleitung zur verwendung von __IntelliJ__ ist [hier] (https://www.jetbrains.com/idea/documentation/) zu finden.
+Eine genauere Anleitung zur verwendung/Installation von __IntelliJ__ ist [hier] (https://www.jetbrains.com/idea/documentation/) zu finden.
 
 
 Da dort mit __Maven__ gearbeitet wurde muss auch dies vorhanden sein.
