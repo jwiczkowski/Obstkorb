@@ -22,7 +22,7 @@ Das Projekt wurde mit __Maven__ gebaut und muss deshalb auch installiert sein.
 
 Um ein Projekt in Intellij zu kompillieren muss man zunächst den Compiler Konfigurieren.
 Zunächst musss man das Konfigurations Menü aufrufen, das oben rechts zu finden ist.
-![Bild vom Menü] (http://imgur.com/a/Zzf3x)
+![Bild vom Menü] (http://imgur.com/a/Zzf3x.png)
 
 
 ##Installation
