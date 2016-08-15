@@ -9,7 +9,7 @@ Eine genauere Anleitung zur verwendung von __IntelliJ__ ist [hier] (https://www.
 
 
 Da dort mit __Maven__ gearbeitet wurde muss auch dies vorhanden sein.
-[Hier](https://maven.apache.org/guides/getting-started/index.html) findet man ein umfangreiches __tutorial__ zur verwendung von Maven.
+[Hier](https://maven.apache.org/guides/getting-started/index.html) findet man ein umfangreiches __tutorial__ zur verwendung von __Maven__.
 
 ##Das Importieren
 1. Man downloaded den Zip Ordner.
