@@ -17,12 +17,12 @@ Zunächst braucht man eine __IDE__ wie z.B [IntelliJ] (https://www.jetbrains.com
 Eine genauere Anleitung zur verwendung/Installation von __IntelliJ__ ist [hier] (https://www.jetbrains.com/idea/documentation/) zu finden.
 
 
-Da dort mit __Maven__ gearbeitet wurde muss auch dies vorhanden sein.
-[Hier](https://maven.apache.org/guides/getting-started/index.html) findet man ein umfangreiches __tutorial__ zur verwendung von __Maven__.
+Das Projekt wurde mit __Maven__ gebaut und muss deshalb auch installiert sein.
+[Hier](https://maven.apache.org/guides/getting-started/index.html) findet man ein umfangreiches __tutorial__ zur Installation von __Maven__.
 
 ##Installation
 
 1. Man downloaded den Zip Ordner.
-2. Nun öffnet man in seiner IDE das Obstkorb Projekt.
-3. Kompillieren.
+2. Man öffnet das Projekt in seiner IDE.
+3. Anschließend Kompilliert man das Projekt. 
 
