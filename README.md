@@ -13,7 +13,7 @@ Da dort mit __Maven__ gearbeitet wurde muss auch dies vorhanden sein.
 
 ##Das Importieren
 1. Man klont das Repository auf seinen Desktop.
-2. Erstellen von einem Projekt in seiner IDE.
+2. Man erstellt ein Projekt in seiner IDE.
 3. In den Speicherpfad seines soeben neu erstellten Projektes gehen.
 4. Das Projekt "Obstkorb" importieren.
 5. Speichern.
