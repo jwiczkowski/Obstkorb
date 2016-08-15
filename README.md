@@ -1,8 +1,8 @@
 #Obstkorb
-__Eine Anleitung zur verwendung meines Projektes.__
+__Eine Anleitung zur verwendung des Obstkorbs.__
 
 
-##Vorraussetzungen
+###Vorraussetzungen
 
 Zunächst braucht man eine IDE ich benutze z.B [IntelliJ] (https://www.jetbrains.com/idea/).
 Eine genauere Anleitung zur verwendung von IntelliJ ist [hier] (https://www.jetbrains.com/idea/documentation/) zu finden.
