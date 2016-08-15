@@ -29,7 +29,6 @@ Das sollte wie folgt aussehen ![Bild vom Menü] (https://puu.sh/qBZBs/1a754a810e
 
 Dannach klickt man auf das "+" Symbol und fügt eine Application hinzu.
 
-
 Anschließend gibt man der Application noch einen Namen und schreibt in die Main class folgendes hin.
 
  
