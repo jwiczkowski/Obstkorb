@@ -23,6 +23,6 @@ Das Projekt wurde mit __Maven__ gebaut und muss deshalb auch installiert sein.
 ##Installation
 
 1. Man downloaded den Zip Ordner.
-2. Man öffnet das Projekt in seiner IDE.
+2. Man öffnet das Projekt in seiner __IDE__.
 3. Anschließend Kompilliert man das Projekt. 
 
