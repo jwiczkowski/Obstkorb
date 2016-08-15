@@ -14,6 +14,5 @@ Da dort mit __Maven__ gearbeitet wurde muss auch dies vorhanden sein.
 ##Das Importieren
 1. Man downloaded den Zip Ordner.
 2. Nun öffnet man in seiner IDE das Obstkorb Projekt.
-3. Man öffnet src --> main --> java --> Obstkorb.
-4. Kompillieren
+3. Kompillieren.
 
