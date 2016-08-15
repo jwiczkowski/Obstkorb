@@ -12,10 +12,12 @@ Die Möglichkeit sich folgende Informationen über Früchte ausgeben zu lassen.
 
 
 ###Bausteine
+ 
+Um dem Projekt ein festen Boden zu geben auf dem es "arbeiten" kann wird eine sogennante __IDE__ benötigt. 
+Eine der __IDE__ ist z.B [IntelliJ] (https://www.jetbrains.com/idea/).
+Eine genauere Anleitung zur verwendung und installation von __IntelliJ__ ist [hier] (https://www.jetbrains.com/idea/documentation/) zu finden.
 
-Zunächst braucht man eine __IDE__ wie z.B [IntelliJ] (https://www.jetbrains.com/idea/).
-Eine genauere Anleitung zur verwendung/Installation von __IntelliJ__ ist [hier] (https://www.jetbrains.com/idea/documentation/) zu finden.
-
+__Maven__ ist ein sogenanntes "Build-Management-Tool" das dem Benutzer unteranderem ermöglicht Projekte standadisiert zu erstellen und zu verwalten.
 
 Das Projekt wurde mit __Maven__ gebaut und muss deshalb auch installiert sein.
 [Hier](https://maven.apache.org/guides/getting-started/index.html) findet man ein umfangreiches __tutorial__ zur Installation von __Maven__.
