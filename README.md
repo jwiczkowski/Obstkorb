@@ -34,6 +34,8 @@ Anschließend gibt man der Application noch einen Namen und schreibt in die Main
  
 ![sexy bild] (https://puu.sh/qBZJH/a1ed03b470.png)
 
+Zum schluss klickt man auf "ok".
+
 
 
 ##Installation
