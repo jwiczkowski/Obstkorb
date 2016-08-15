@@ -1,5 +1,5 @@
 #Obstkorb
-__Eine Anleitung zur verwendung des Obstkorbs.__
+Ein Projekt das der Ausgabe von Informationen über Früchte dient.
 
 
 ###Vorraussetzungen
