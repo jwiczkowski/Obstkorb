@@ -11,7 +11,7 @@ Die Möglichkeit sich folgende Informationen über Früchte ausgeben zu lassen.
 * Typ
 
 
-###Vorraussetzungen
+###Bausteine
 
 Zunächst braucht man eine __IDE__ wie z.B [IntelliJ] (https://www.jetbrains.com/idea/).
 Eine genauere Anleitung zur verwendung/Installation von __IntelliJ__ ist [hier] (https://www.jetbrains.com/idea/documentation/) zu finden.
@@ -19,15 +19,16 @@ Eine genauere Anleitung zur verwendung/Installation von __IntelliJ__ ist [hier] 
 
 Das Projekt wurde mit __Maven__ gebaut und muss deshalb auch installiert sein.
 [Hier](https://maven.apache.org/guides/getting-started/index.html) findet man ein umfangreiches __tutorial__ zur Installation von __Maven__.
+###Kompillieren
 
 Um das Projekt in IntelliJ laufen zu bringen muss zuerst wissen wie man ein Projekt kompilliert.
- 
- Das Ziel ist es den Compiler zu Konfigurieren.
- Dies tuht man indem man das Konfigurationsmenü aufruft, das oben rechts zu finden ist.
+Das Ziel ist es den Compiler zu Konfigurieren.
+
+Dies tuht man indem man das Konfigurationsmenü aufruft, das oben rechts zu finden ist.
 ![Bild vom Menü] (https://puu.sh/qC0af/e51ae55498.png)
 
 
- Man drückt auf den Pfeil und ruft das Konfigurations Menü auf.
+Man drückt auf den Pfeil und ruft das Konfigurations Menü auf.
 Das wie folgt aussehen sollte. 
 ![Bild vom Menü] (https://puu.sh/qBZBs/1a754a810e.png)
 
