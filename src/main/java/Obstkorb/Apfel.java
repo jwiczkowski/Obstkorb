@@ -30,7 +30,7 @@ public class Apfel implements ObstInterface {
             System.out.println("Früchte Typ : " + Art);
 
 
-        }
+}
 
 
 
