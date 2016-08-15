@@ -47,5 +47,5 @@ Zum schluss klickt man auf "ok".
 
 1. Man downloaded den Zip Ordner.
 2. Man öffnet das Projekt in seiner __IDE__.
-3. Anschließend Kompilliert man das Projekt.
+3. Anschließend Kompilliert man das Projekt ;)
 
