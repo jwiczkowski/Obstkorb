@@ -21,6 +21,7 @@ Das Projekt wurde mit __Maven__ gebaut und muss deshalb auch installiert sein.
 [Hier](https://maven.apache.org/guides/getting-started/index.html) findet man ein umfangreiches __tutorial__ zur Installation von __Maven__.
 
 Um das Projekt in IntelliJ laufen zu bringen muss zuerst wissen wie man ein Projekt kompilliert.
+ 
  Das Ziel ist es den Compiler zu Konfigurieren.
  Dies tuht man indem man das Konfigurationsmenü aufruft, das oben rechts zu finden ist.
 ![Bild vom Menü] (https://puu.sh/qC0af/e51ae55498.png)
