@@ -27,6 +27,13 @@ Zunächst musss man das Konfigurations Menü aufrufen, das oben rechts zu finden
 Man drückt auf den Pfeil und ruft das Konfigurations Menü auf.
 Das sollte wie folgt aussehen ![Bild vom Menü] (https://puu.sh/qBZBs/1a754a810e.png)
 
+Dannach klickt man auf das "+" Symbol und fügt eine Application hinzu.
+Anschließend gibt man der Application noch einen Namen und schreibt in die Main class folgendes hin.
+
+ 
+![sexy bild] (https://puu.sh/qBZJH/a1ed03b470.png)
+
+
 
 ##Installation
 
