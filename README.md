@@ -23,25 +23,25 @@ Das Projekt wurde mit __Maven__ gebaut und muss deshalb auch installiert sein.
 [Hier](https://maven.apache.org/guides/getting-started/index.html) findet man ein umfangreiches __tutorial__ zur Installation von __Maven__.
 ###Kompillieren
 
-Um das Projekt in IntelliJ laufen zu bringen muss zuerst wissen wie man ein Projekt kompilliert.
-Das Ziel ist es den Compiler zu Konfigurieren.
+Um ein Projekt in __IntelliJ__ zum laufen zu bringen muss man zuerst wissen wie man ein Projekt kompilliert.
+Das Ziel ist es den __Compiler__ zu Konfigurieren.
 
-Dies tuht man indem man das Konfigurationsmenü aufruft, das oben rechts zu finden ist.
+Dies tuht man indem man das __Konfigurationsmenü__ aufruft, das oben rechts zu finden ist.
 ![Bild vom Menü] (https://puu.sh/qC0af/e51ae55498.png)
 
 
-Man drückt auf den Pfeil und ruft das Konfigurations Menü auf.
+Man drückt auf den Pfeil und ruft das Konfigurationsmenü auf.
 Das wie folgt aussehen sollte. 
 ![Bild vom Menü] (https://puu.sh/qBZBs/1a754a810e.png)
 
-Dannach klickt man auf das "+" Symbol und fügt eine Application hinzu.
+Dannach klickt man auf das "__+__" Symbol und fügt eine __Application__ hinzu.
 
 Anschließend gibt man der Application noch einen Namen und schreibt in die Main class folgendes hin.
 
  
 ![sexy bild] (https://puu.sh/qBZJH/a1ed03b470.png)
 
-Zum schluss klickt man auf "ok" und hat somit eine möglichkeit geschafffen Projekte zu kompiellieren.
+Zum schluss klickt man auf "ok" und hat somit eine möglichkeit geschafffen Projekte zu __kompillieren__.
 
 
 
