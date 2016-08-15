@@ -1,5 +1,4 @@
-# Spielwiese
-Eine schöne Wiese mit grünen Gänseblümchen
-*Spielwiese* 
+#Obstkorb
+__Eine Anleitung zur verwendung meines Projektes.__
 
-:smile: 
+Zunächst braucht man eine IDE ich benutze z.B [IntelliJ] https://www.jetbrains.com/idea/
