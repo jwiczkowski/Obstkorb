@@ -24,6 +24,9 @@ Um ein Projekt in Intellij zu kompillieren muss man zunächst den Compiler Konfi
 Zunächst musss man das Konfigurations Menü aufrufen, das oben rechts zu finden ist.
 ![Bild vom Menü] (https://puu.sh/qBZvi/e4782a6472.png)
 
+Man drückt auf den Pfeil und ruft das Konfigurations Menü auf.
+Das sollte wie folgt aussehen ![Bild vom Menü] (https://puu.sh/qBZBs/1a754a810e.png)
+
 
 ##Installation
 
