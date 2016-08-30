@@ -26,7 +26,7 @@ Das Projekt wurde mit __Maven__ gebaut und muss deshalb auch installiert sein.
 Um ein Projekt in __IntelliJ__ zum laufen zu bringen muss man zuerst wissen wie man ein Projekt kompilliert.
 Das Ziel ist es den __Compiler__ zu Konfigurieren.
 
-Dies tuht man indem man das __Konfigurationsmenü__ aufruft, das oben rechts zu finden ist.
+Dies tut man indem man das __Konfigurationsmenü__ aufruft, das oben rechts zu finden ist.
 ![Bild vom Menü] (https://puu.sh/qC0af/e51ae55498.png)
 
 
